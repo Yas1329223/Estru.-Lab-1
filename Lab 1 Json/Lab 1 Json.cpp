@@ -96,7 +96,8 @@ int main() { // Parseamos el archivo JSONL de entrada
 
     // Imprimimos el tamaño de map y el número de requerimientos 
     cout << "Tamaño de map: " << map.size() << endl; vector<string> requerimientos = { "Academy", "Gym", "Store" };
-    cout << "Departamento sujerido:  " << requerimientos.size() << endl;
+
+    cout << "Departamento sugerido:  " << requerimientos.size() << endl;
 
     // Encontramos los apartamentos que coincidan con los requerimientos
     vector<int> matches = findMatchingApartments(map, requerimientos);
