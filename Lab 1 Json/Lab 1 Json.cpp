@@ -92,7 +92,7 @@ void writeOutput(vector<int> matches, string input_example) {
 }
 
 int main() { // Parseamos el archivo JSONL de entrada 
-    vector<vector<bool>> map = parseInputJsonl("input_example.jsonl");
+    vector<vector<bool>> map = parseInputJsonl("input_challenge.jsonl");
 
     // Imprimimos el tamaño de map y el número de requerimientos 
     cout << "Tamaño de map: " << map.size() << endl; vector<string> requerimientos = { "Academy", "Gym", "Store" };
