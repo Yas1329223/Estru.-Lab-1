@@ -1,2 +1,103 @@
 ﻿  Lab 1 Json.cpp
-  Lab 1 Json.vcxproj -> C:\Users\aldan\source\repos\Lab 1 Json\Estru.-Lab-1\x64\Debug\Lab 1 Json.exe
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(1,1): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(11,80): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(11,80): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(11,99): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(12,79): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(12,79): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(12,97): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(13,80): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(13,80): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(13,99): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(14,81): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(14,81): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(14,98): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(15,88): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(15,88): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(15,112): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(16,89): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(16,89): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(16,114): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(17,86): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(17,86): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(17,108): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(32,24): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(32,24): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(32,32): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(38,20): error C2653: 'nlohmann': no es un nombre de clase o espacio de nombres
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(41,90): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(41,90): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(41,109): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(42,89): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(42,89): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(42,107): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(43,90): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(43,90): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(43,109): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(44,91): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(44,91): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(44,108): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(45,98): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(45,98): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(45,122): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(46,99): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(46,99): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(46,124): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(47,96): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(47,96): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(47,118): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(62,24): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(62,24): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(62,32): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(68,20): error C2653: 'nlohmann': no es un nombre de clase o espacio de nombres
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(71,98): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(71,98): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(71,117): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(72,97): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(72,97): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(72,115): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(73,98): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(73,98): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(73,117): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(74,99): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(74,99): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(74,116): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(75,106): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(75,106): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(75,130): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(76,107): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(76,107): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(76,132): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(77,104): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(77,104): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(77,126): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(92,24): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(92,24): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(92,32): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(98,20): error C2653: 'nlohmann': no es un nombre de clase o espacio de nombres
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(101,95): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(101,95): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(101,114): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(102,94): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(102,94): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(102,112): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(103,95): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(103,95): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(103,114): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(104,96): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(104,96): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(104,113): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(105,103): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(105,103): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(105,127): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(106,104): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(106,104): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(106,129): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(107,101): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(107,101): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(107,123): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(122,24): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(122,24): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(122,32): error C2059: error de sintaxis: '<'
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(128,20): error C2653: 'nlohmann': no es un nombre de clase o espacio de nombres
+C:\Users\aldan\Downloads\json-develop\json-develop\nlohmann_json.natvis(128,52): fatal  error C1003: el recuento de errores supera 100; se detiene la compilación
